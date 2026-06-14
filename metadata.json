@@ -1,0 +1,8 @@
+{
+  "name": "Two Hearts Cafe",
+  "description": "A modern, premium, fully responsive restaurant/cafe website for Two Hearts Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
