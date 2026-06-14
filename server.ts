@@ -17,7 +17,7 @@ import twilio from 'twilio';
 import nodemailer from 'nodemailer';
 import Razorpay from 'razorpay';
 import crypto from 'crypto';
-import { Booking, Admin } from './src/models.js';
+import { Booking, Admin } from './models';
 
 const app = express();
 const PORT = 3000;
